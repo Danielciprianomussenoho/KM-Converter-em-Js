@@ -1,0 +1,50 @@
+h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  color: #333;
+  font-family: 'PT Sans', sans-serif;
+  padding: 50px 0;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+.invisible {
+  color: #AABCCC;
+}
+
+.container {
+  margin: auto;  
+  width: 700px;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #AABCCC;
+}
+
+.top {
+  background-color: #ebf6be;
+}
+
+.bottom {
+ background-color: #AABCCC;
+}
+
+p {
+  margin-bottom: 1em;
+}
+.f {
+  margin-top: 1em;
+  text-align: center;
+}
+
